@@ -1,1 +1,1 @@
-Current and past versions of a todolist built with Node, Express, EJS and other tools
+Current and past versions of a to-do list built with Node, Express, EJS and other tools
